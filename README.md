@@ -23,7 +23,7 @@ Checkout the live demo at https://demo-spa.stackpuz.com
 
 ## Installation
 1. Clone this repository. `git clone https://github.com/stackpuz/Boilerplate-CRUD-Angular-16-Laravel-10.git .`
-2. Change directory to Angular project. `cd Boilerplate-CRUD-Angular-16-Laravel-10/angular`
+2. Change directory to Angular project. `cd angular`
 3. Install the Angular dependencies. `npm install`
 4. Change directory to Laravel project. `cd ../laravel_api`
 5. Install the Laravel dependencies. `composer install`
